@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davethepitt
-- 🌱 I’m currently learning TIC80
+- 🌱 I’m currently learning TIC80 and Python (Wish me luck)
 - 📫 You can reach me on Mastodon [@davethepitt@mastodon.social](https://mastodon.social/@davethepitt) or Bluesky [@davethepitt.bsky.social](https://bsky.app/profile/davethepitt.bsky.social).
 
 <!---
