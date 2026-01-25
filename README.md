@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davethepitt
-- 📖 I'm currently reading Skyjack and Nobody's Girl
+- 📖 I'm currently reading Nobody's Girl
 - 🌱 I’m currently learning Python (Wish me luck)
 - 😕 Also trying to get my head around Git
 - 🤷‍♂️ Oh yeah, and Markdown Language.
@@ -11,4 +11,4 @@ This set of repos is going to get "messy". I'm learning Git, Github, Markdown an
 So yes, this will be messy. You probably won't learn anything. But you might be inspired.
 
 Dave Pitt  
-24th December 2025
+25th January 2026
